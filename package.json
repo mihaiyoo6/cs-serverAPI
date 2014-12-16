@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mijea Mihai",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "express": "^3.0.0",
+    "redis": "^0.12.1",
+    "underscore": "^1.7.0"
+  }
 }
