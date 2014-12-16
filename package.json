@@ -1,0 +1,11 @@
+{
+  "name": "CS-real",
+  "version": "1.0.0",
+  "description": "Code School Video Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mijea Mihai",
+  "license": "MIT"
+}
